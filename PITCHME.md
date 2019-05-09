@@ -2,7 +2,22 @@
 
 ---
 
-![](assets/html/test.html)
+
+<style>
+    .box {
+        padding: 10px;
+        color: white;
+        background-color: darkblue;
+        border: 1px solid black;
+    }
+</style>
+
+<ul>
+    <li class="box">Action</li>
+    <li class="box">Reducer</li>
+    <li class="box">Epic</li>
+    <li class="box">UI</li>
+</ul>
 
 ---
 
