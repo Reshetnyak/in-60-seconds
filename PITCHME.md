@@ -2,6 +2,10 @@
 
 ---
 
+![](assets/html/test.html)
+
+---
+
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
